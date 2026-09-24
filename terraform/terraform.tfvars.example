@@ -1,0 +1,10 @@
+aws_region  = "us-east-1"
+environment  = "dev"
+project_name = "ha-three-tier"
+
+web_instance_type = "t3.micro"
+app_instance_type = "t3.micro"
+db_instance_class = "db.t3.micro"
+
+# Optional: existing ACM certificate for HTTPS.
+# acm_certificate_arn = "arn:aws:acm:us-east-1:123456789012:certificate/..."
