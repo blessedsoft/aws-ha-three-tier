@@ -4,7 +4,7 @@ Production-oriented three-tier AWS architecture for a highly available web appli
 
 ## Architecture
 
-![Architecture Diagram](aws-ha-three-tier/docs/Architecture-Diagram.gif)
+![Architecture Diagram](aws-ha-three-tier/docs/image.png)
 
 The design provides:
 
