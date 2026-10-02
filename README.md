@@ -78,3 +78,10 @@ terraform plan
     
 -   Infrastructure as Code
    
+#Evidence
+![Implementation Evidence](aws-ha-three-tier-app.png)
+
+![Terraform](resources.png)
+
+![Virtual Private Cloud](vpc.png)
+

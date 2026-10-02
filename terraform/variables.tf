@@ -105,6 +105,6 @@ variable "acm_certificate_arn" {
 }
 
 variable "rds_backup_retention_days" {
-  type    = number
-  default = 7
+  type = number
+  default = 1 # 7
 }
