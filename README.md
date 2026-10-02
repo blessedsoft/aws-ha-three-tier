@@ -87,5 +87,7 @@ terraform plan
 # AWS Console
 ![Virtual Private Cloud](vpc.png)
 
-# Cleau-up
+# Clean-up
 ![Terraform](resources.png)
+
+
